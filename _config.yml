@@ -1,7 +1,7 @@
 name: Chu Math Badminton Club
 description: Blog for Chu Math Badminton Club.
 url: 'https://chumathbadmintionclub.github.io'
-baseurl: '/chumathbadmintonclub.github.io'
+baseurl: '/blog'
 email: mathstana@gmail.com
 #twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/mathruffian
