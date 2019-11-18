@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Blog for Chu Math Badminton Club.</description>
+    <link>http://localhost:4000/jekyll-video/</link>
+    <atom:link href="http://localhost:4000/jekyll-video/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Nov 2019 23:47:31 +0800</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2019 23:47:31 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Taipei Tennis Center</title>
+        <description>&lt;p&gt;Today we go to &lt;a href=&quot;http://www.tsc.taipei/&quot;&gt;Taipei Tennis Center&lt;/a&gt;, and play badminton together.&lt;/p&gt;
+
+&lt;p&gt;The YouTube creators shown in this video with first-person view:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/mathruffian&quot;&gt;三帥爸&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>
+            Sun, 17 Nov 2019 00:00:00 +0800
+        </pubDate>
+        <link>http://localhost:4000/jekyll-video/2019-11-17-video-taipei-first-person-view/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-video/2019-11-17-video-taipei-first-person-view/</guid>
+        
+        <category>Taipei</category>
+        
+        <category>Badminton</category>
+        
+        <category>First-Person-View</category>
+        
+      </item>
+    
+      <item>
+        <title>Taipei Tennis Center</title>
+        <description>&lt;p&gt;Today we go to &lt;a href=&quot;http://www.tsc.taipei/&quot;&gt;Taipei Tennis Center&lt;/a&gt;, and play badminton together.&lt;/p&gt;
+
+&lt;p&gt;The YouTube creators shown in this video:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/mathruffian&quot;&gt;三帥爸&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>
+            Sun, 17 Nov 2019 00:00:00 +0800
+        </pubDate>
+        <link>http://localhost:4000/jekyll-video/2019-11-17-video-taipei/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-video/2019-11-17-video-taipei/</guid>
+        
+        <category>Taipei</category>
+        
+        <category>Badminton</category>
+        
+      </item>
+    
+  </channel>
+</rss>

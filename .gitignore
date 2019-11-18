@@ -1,6 +1,6 @@
-club-site/_site
+_site/*
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
 .idea
+Gemfile.lock

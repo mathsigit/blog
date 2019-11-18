@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/jekyll-video/photo/2019/11/17/words-taipei.html</loc>
+<lastmod>2019-11-17T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/newopen/2019/11/18/newopening.html</loc>
+<lastmod>2019-11-18T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/2019-11-17-video-taipei-first-person-view/</loc>
+<lastmod>2019-11-17T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/2019-11-17-video-taipei/</loc>
+<lastmod>2019-11-17T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/videos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll-video/words/</loc>
+</url>
+</urlset>
